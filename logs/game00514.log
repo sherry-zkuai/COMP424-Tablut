@@ -1,0 +1,15 @@
+# Server version 0.08 running on 192.168.1.32:8123
+# Game ID: 514
+# Board class: tablut.TablutBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sat Apr 07 22:21:45 EDT 2018
+# Player 1: Player-0, 'GreedyPlayer', running on localhost
+# Player 2: Player-1, '260614908', running on localhost
+START Player-0 GreedyPlayer
+START Player-1 260614908
+1 4 1 2 0
+2 4 2 5 1
+0 4 2 4 0
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Sat Apr 07 22:21:57 EDT 2018

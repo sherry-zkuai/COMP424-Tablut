@@ -1,0 +1,40 @@
+# Server version 0.08 running on 192.168.1.32:8123
+# Game ID: 654
+# Board class: tablut.TablutBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sun Apr 08 18:15:46 EDT 2018
+# Player 1: Player-0, '260614908', running on 192.168.1.32
+# Player 2: Player-1, '260727743', running on 192.168.1.32
+START Player-0 260614908
+START Player-1 260727743
+8 3 8 2 0
+3 4 3 5 1
+5 8 6 8 0
+4 4 3 4 1
+3 8 2 8 0
+6 4 6 3 1
+6 8 6 5 0
+5 4 6 4 1
+0 5 0 7 0
+4 6 0 6 1
+6 5 7 5 0
+0 6 4 6 1
+1 4 1 6 0
+3 4 5 4 1
+8 2 6 2 0
+5 4 5 8 1
+7 5 7 8 0
+5 8 6 8 1
+7 4 7 8 0
+6 8 6 7 1
+7 8 7 2 0
+6 7 7 7 1
+5 0 5 8 0
+6 4 6 8 1
+8 5 5 5 0
+7 7 7 8 1
+8 4 8 5 0
+7 8 8 8 1
+GAMEOVER WINNER 1
+# Game ended: Sun Apr 08 18:16:18 EDT 2018

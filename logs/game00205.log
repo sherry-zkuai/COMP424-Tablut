@@ -1,0 +1,32 @@
+# Server version 0.08 running on 192.168.1.32:8123
+# Game ID: 205
+# Board class: tablut.TablutBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sat Apr 07 14:41:52 EDT 2018
+# Player 1: Player-0, 'GreedyPlayer', running on localhost
+# Player 2: Player-1, '260614908', running on localhost
+START Player-0 GreedyPlayer
+START Player-1 260614908
+1 4 1 2 0
+6 4 6 3 1
+7 4 6 4 0
+4 4 5 4 1
+3 0 3 2 0
+5 4 5 2 1
+4 1 2 1 0
+5 2 7 2 1
+5 0 5 2 0
+2 4 1 4 1
+2 1 2 4 0
+7 2 8 2 1
+3 2 4 2 0
+4 5 3 5 1
+8 5 4 5 0
+3 5 2 5 1
+5 2 6 2 0
+2 5 1 5 1
+4 5 2 5 0
+8 2 8 0 1
+GAMEOVER WINNER 1
+# Game ended: Sat Apr 07 14:41:53 EDT 2018

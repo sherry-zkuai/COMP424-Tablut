@@ -1,0 +1,12 @@
+# Server version 0.08 running on 192.168.1.32:8123
+# Game ID: 21
+# Board class: tablut.TablutBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sat Apr 07 04:51:30 EDT 2018
+# Player 1: Player-0, '260614908', running on localhost
+# Player 2: Player-1, 'RandomPlayer', running on localhost
+START Player-0 260614908
+START Player-1 RandomPlayer
+GAMEOVER ILLEGAL MOVE: Muscovites (p0) move (6, 4) to (6, 3) WINNER 1
+# Game ended: Sat Apr 07 04:51:30 EDT 2018

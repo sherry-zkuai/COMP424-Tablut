@@ -1,0 +1,20 @@
+# Server version 0.08 running on 192.168.1.32:8123
+# Game ID: 6
+# Board class: tablut.TablutBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Sat Apr 07 02:32:30 EDT 2018
+# Player 1: Player-0, 'Human', running on 192.168.1.32
+# Player 2: Player-1, 'GreedyPlayer', running on 192.168.1.32
+START Player-0 Human
+START Player-1 GreedyPlayer
+4 1 2 1 0
+4 2 5 2 1
+4 0 4 2 0
+3 4 3 2 1
+2 1 2 3 0
+3 2 2 2 1
+1 4 1 6 0
+4 4 4 0 1
+7 4 7 6 0
+6 4 6 0 1
